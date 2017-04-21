@@ -1,0 +1,10 @@
+[Activity]
+name = GCompris Photo Hunter
+license = GPLv3+
+exec = .0sugar/launch +../GComprisContent.activity/.0sugar-injection/implementations bin/gcompris-activity
+activity_version = 13
+suggests = gcompris/media
+bundle_id = net.gcompris.photohunter
+requires = gcompris/photohunter
+icon = photohunter
+

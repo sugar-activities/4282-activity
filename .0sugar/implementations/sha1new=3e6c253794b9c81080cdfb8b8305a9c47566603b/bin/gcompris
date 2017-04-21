@@ -1,0 +1,2 @@
+#!/bin/sh
+$(dirname $0)/gcompris.orig -l /puzzle/photohunter $@
